@@ -44,9 +44,8 @@ ConnectAlum is a MERN stack web application designed to bridge the gap between s
 - **Frontend:** React.js, HTML5, CSS3, JavaScript  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **State Management:** Redux (if used)  
 
----
+--
 
 ## 🛠️ Setup and Run Locally
 
