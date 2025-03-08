@@ -30,15 +30,6 @@ ConnectAlum is a MERN stack web application designed to bridge the gap between s
 
 ---
 
-## 🚀 Platform Impact
-
-- **5,000+** Active Members  
-- **1,200+** Mentorships Created  
-- **350+** Job Placements  
-- **98%** Satisfaction Rate  
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js, HTML5, CSS3, JavaScript  
